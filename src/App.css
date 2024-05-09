@@ -1,0 +1,8 @@
+img {
+  width: 100%;
+}
+
+.Layout img {
+  height: 120px;
+  object-fit: cover;
+}
